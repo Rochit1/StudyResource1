@@ -87,5 +87,5 @@ ul li a{
 
 .mat-col1 ul,.mat-col-2 ul {
     list-style: none; /* Example list style */
-    margin-left: 20px; /* Example margin for list items */
+    margin-left: 20px; 
 }
