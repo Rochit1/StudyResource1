@@ -26,6 +26,9 @@ nav{
     align-items: center;
     justify-content: space-between;
     flex-wrap: wrap;
+    position: sticky;
+    top: 0;
+    overflow: hidden;
 }
 .logo{
     width: 140px;
@@ -314,7 +317,7 @@ nav .fas{
         font-size: 16px;
         margin-top: 15px;
     }
-    }
+
     .copyright{
         font-size: 14px;
     }
@@ -331,3 +334,4 @@ nav .fas{
     .materiallist{
         align-items: center;
     }
+}
